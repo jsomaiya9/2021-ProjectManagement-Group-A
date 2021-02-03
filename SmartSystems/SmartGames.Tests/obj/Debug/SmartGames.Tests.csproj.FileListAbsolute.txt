@@ -1,0 +1,17 @@
+\\Mac\Home\Desktop\SmartSystems_Smart Games\SmartSystems\SmartGames.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+\\Mac\Home\Desktop\SmartSystems_Smart Games\SmartSystems\SmartGames.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+\\Mac\Home\Desktop\SmartSystems_Smart Games\SmartSystems\SmartGames.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+\\Mac\Home\Desktop\SmartSystems_Smart Games\SmartSystems\SmartGames.Tests\bin\Debug\SmartGames.Tests.dll
+\\Mac\Home\Desktop\SmartSystems_Smart Games\SmartSystems\SmartGames.Tests\bin\Debug\SmartGames.Tests.pdb
+\\Mac\Home\Desktop\SmartSystems_Smart Games\SmartSystems\SmartGames.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+\\Mac\Home\Desktop\SmartSystems_Smart Games\SmartSystems\SmartGames.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+\\Mac\Home\Desktop\SmartSystems_Smart Games\SmartSystems\SmartGames.Tests\bin\Debug\SmartGames_FrontEnd.dll
+\\Mac\Home\Desktop\SmartSystems_Smart Games\SmartSystems\SmartGames.Tests\bin\Debug\SmartGames_FrontEnd.pdb
+\\Mac\Home\Desktop\SmartSystems_Smart Games\SmartSystems\SmartGames.Tests\bin\Debug\SmartGames_FrontEnd.dll.config
+\\Mac\Home\Desktop\SmartSystems_Smart Games\SmartSystems\SmartGames.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+\\Mac\Home\Desktop\SmartSystems_Smart Games\SmartSystems\SmartGames.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+\\Mac\Home\Desktop\SmartSystems_Smart Games\SmartSystems\SmartGames.Tests\obj\Debug\SmartGames.Tests.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\SmartSystems_Smart Games\SmartSystems\SmartGames.Tests\obj\Debug\SmartGames.Tests.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\SmartSystems_Smart Games\SmartSystems\SmartGames.Tests\obj\Debug\SmartGames.Tests.csproj.CopyComplete
+\\Mac\Home\Desktop\SmartSystems_Smart Games\SmartSystems\SmartGames.Tests\obj\Debug\SmartGames.Tests.dll
+\\Mac\Home\Desktop\SmartSystems_Smart Games\SmartSystems\SmartGames.Tests\obj\Debug\SmartGames.Tests.pdb

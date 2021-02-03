@@ -1,0 +1,6 @@
+\\Mac\Home\Desktop\SmartSystems_Smart Games\SmartSystems\SmartSystems_ClassLibrary\bin\Debug\SmartSystems_ClassLibrary.dll
+\\Mac\Home\Desktop\SmartSystems_Smart Games\SmartSystems\SmartSystems_ClassLibrary\bin\Debug\SmartSystems_ClassLibrary.pdb
+\\Mac\Home\Desktop\SmartSystems_Smart Games\SmartSystems\SmartSystems_ClassLibrary\obj\Debug\SmartSystems_ClassLibrary.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\SmartSystems_Smart Games\SmartSystems\SmartSystems_ClassLibrary\obj\Debug\SmartSystems_ClassLibrary.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\SmartSystems_Smart Games\SmartSystems\SmartSystems_ClassLibrary\obj\Debug\SmartSystems_ClassLibrary.dll
+\\Mac\Home\Desktop\SmartSystems_Smart Games\SmartSystems\SmartSystems_ClassLibrary\obj\Debug\SmartSystems_ClassLibrary.pdb

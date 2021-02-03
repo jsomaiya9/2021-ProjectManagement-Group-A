@@ -1,0 +1,9 @@
+\\Mac\Home\Desktop\SmartSystems_Smart Games\SmartSystems\SmartGames_BackEnd\bin\Debug\SmartGames_BackEnd.exe.config
+\\Mac\Home\Desktop\SmartSystems_Smart Games\SmartSystems\SmartGames_BackEnd\bin\Debug\SmartGames_BackEnd.exe
+\\Mac\Home\Desktop\SmartSystems_Smart Games\SmartSystems\SmartGames_BackEnd\bin\Debug\SmartGames_BackEnd.pdb
+\\Mac\Home\Desktop\SmartSystems_Smart Games\SmartSystems\SmartGames_BackEnd\obj\Debug\SmartGames_BackEnd.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\SmartSystems_Smart Games\SmartSystems\SmartGames_BackEnd\obj\Debug\SmartGames_BackEnd.Properties.Resources.resources
+\\Mac\Home\Desktop\SmartSystems_Smart Games\SmartSystems\SmartGames_BackEnd\obj\Debug\SmartGames_BackEnd.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\SmartSystems_Smart Games\SmartSystems\SmartGames_BackEnd\obj\Debug\SmartGames_BackEnd.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\SmartSystems_Smart Games\SmartSystems\SmartGames_BackEnd\obj\Debug\SmartGames_BackEnd.exe
+\\Mac\Home\Desktop\SmartSystems_Smart Games\SmartSystems\SmartGames_BackEnd\obj\Debug\SmartGames_BackEnd.pdb
